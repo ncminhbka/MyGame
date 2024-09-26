@@ -4,6 +4,8 @@ import javax.swing.JFrame;
 
 public class Main {
 	public static void main(String[] args) {
+		//Toi là Nguyen Cong Minh
+		//Trong vong 1 thang toi toi se co nguoi yeu
         JFrame window = new JFrame(); // Tạo JFrame để quản lý cửa sổ game
         window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // Thoát khi nhấn nút đóng cửa sổ
         window.setResizable(false); // Không cho phép thay đổi kích thước cửa sổ
