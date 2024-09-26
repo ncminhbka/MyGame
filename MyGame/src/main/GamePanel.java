@@ -34,6 +34,7 @@ public class GamePanel extends JPanel implements Runnable{
 			repaint();
 		}
 	}
+	// commit
 	@Override
 	public void paintComponent(Graphics g) {
 		super.paintComponent(g); // xóa màn hình 
