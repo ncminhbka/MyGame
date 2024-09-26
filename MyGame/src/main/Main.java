@@ -6,6 +6,7 @@ public class Main {
 	public static void main(String[] args) {
 		//Toi là Nguyen Cong Minh
 		//Trong vong 1 thang toi toi se co nguoi yeu
+		//Phai chang do la mot chi gai nao do lon tuoi hon toi?
 		
         JFrame window = new JFrame(); // Tạo JFrame để quản lý cửa sổ game
         window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // Thoát khi nhấn nút đóng cửa sổ
