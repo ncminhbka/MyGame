@@ -13,7 +13,6 @@ public class Main {
         window.setResizable(false); // Không cho phép thay đổi kích thước cửa sổ
         window.setTitle("MyGame"); // Đặt tiêu đề cho cửa sổ
         
-        
         GamePanel gamePanel = new GamePanel(); // Tạo đối tượng GamePanel
         window.add(gamePanel); // Thêm GamePanel vào JFrame
         window.pack();
